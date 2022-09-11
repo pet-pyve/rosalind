@@ -1,3 +1,5 @@
+#Finding a Motif in DNA
+
 import re
 
 #find first index loc for all substrings
